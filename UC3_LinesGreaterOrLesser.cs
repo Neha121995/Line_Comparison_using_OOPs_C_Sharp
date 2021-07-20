@@ -32,11 +32,11 @@ namespace Line_Comparison_using_OOPs
             }
             else if (len1.CompareTo(len2) < 0)
             {
-                Console.WriteLine("The length of two lines are lesser");
+                Console.WriteLine("The first line is less than Second line");
             }
             else if (len1.CompareTo(len2) > 0)
             {
-                Console.WriteLine("The length of two lines are greater");
+                Console.WriteLine("The first line is grether than Second line");
             }
         }
 

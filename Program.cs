@@ -7,6 +7,7 @@ namespace Line_Comparison_using_OOPs
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to line comparison problem using oops");
+            UC1_CalculateLength.calculateLength();
         }
     }
 }

@@ -8,7 +8,8 @@ namespace Line_Comparison_using_OOPs
         {
             Console.WriteLine("Welcome to line comparison problem using oops");
             //UC1_CalculateLength.calculateLength();
-            UC2_CheckLinesEqualorNot.calLine();
+            //UC2_CheckLinesEqualorNot.calLine();
+            UC3_LinesGreaterOrLesser.calLine();
         }
     }
 }
